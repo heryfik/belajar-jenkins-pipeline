@@ -1,5 +1,5 @@
 # Belajar Spring Dasar
 
-by Programmer Zaman Now
+Belajar Jenkins Pipeline
 
 # Trigger jenkins
